@@ -1,101 +1,101 @@
 [
   {
     "id": "vid001",
-    "title": "bro is speechless",
+    "title": "Bro is speechless",
     "description": "Clipped by Robbenbomber<br>",
-    "url": "https://cdn.wafflzz.xyz/tv.wafflzz.xyz/streams/twitch_clip_1.mp4",
-    "thumbnail": "https://cdn.wafflzz.xyz/tv.wafflzz.xyz/streams/thumbnails/twitch_thumbnail_1.png",
+    "url": "https://tv.wafflzz.xyz/streams/twitch_clip_1.mp4",
+    "thumbnail": "https://tv.wafflzz.xyz/streams/thumbnails/twitch_thumbnail_1.png",
     "duration": "00:33",
     "minVersion": "1.1.0"
   },
-  
   {
     "id": "vid002",
-    "title": "Ayo, Waffle what you say?!?",
+    "title": "Ayo, Waffle – what did you say?!",
     "description": "Clipped by engie497<br>",
-    "url": "https://cdn.wafflzz.xyz/tv.wafflzz.xyz/streams/twitch_clip_2.mp4",
-    "thumbnail": "https://placehold.co/1920x1080?text=No+Thumbnail",
-    "duration": "00:09"
+    "url": "https://tv.wafflzz.xyz/streams/twitch_clip_2.mp4",
+    "thumbnail": "https://tv.wafflzz.xyz/streams/thumbnails/placeholder.png",
+    "duration": "00:09",
+    "minVersion": "1.1.0"
   },
-  
   {
     "id": "vid003",
-    "title": "cyana has a pychosis",
+    "title": "Cyana has a psychosis",
     "description": "Clipped by Robbenbomber<br>",
-    "url": "https://cdn.wafflzz.xyz/tv.wafflzz.xyz/streams/twitch_clip_3.mp4",
-    "thumbnail": "https://placehold.co/1920x1080?text=No+Thumbnail",
-    "duration": "00:05"
+    "url": "https://tv.wafflzz.xyz/streams/twitch_clip_3.mp4",
+    "thumbnail": "https://tv.wafflzz.xyz/streams/thumbnails/placeholder.png",
+    "duration": "00:05",
+    "minVersion": "1.1.0"
   },
-  
   {
     "id": "vid004",
-    "title": "[EN Vtuber] 3rd party central (apex peak 🔥)",
+    "title": "[EN VTuber] Third-party central (Apex peak 🔥)",
     "description": "Clipped by waffl_zz<br>",
-    "url": "https://cdn.wafflzz.xyz/tv.wafflzz.xyz/streams/twitch_clip_4.mp4",
-    "thumbnail": "https://placehold.co/1920x1080?text=No+Thumbnail",
-    "duration": "00:30"
+    "url": "https://tv.wafflzz.xyz/streams/twitch_clip_4.mp4",
+    "thumbnail": "https://tv.wafflzz.xyz/streams/thumbnails/placeholder.png",
+    "duration": "00:30",
+    "minVersion": "1.1.0"
   },
-  
   {
     "id": "vid005",
-    "title": "waffle dies then remebers :0",
+    "title": "Waffle dies… then remembers :0",
     "description": "Clipped by dandelol<br>",
-    "url": "https://cdn.wafflzz.xyz/tv.wafflzz.xyz/streams/twitch_clip_5.mp4",
-    "thumbnail": "https://placehold.co/1920x1080?text=No+Thumbnail",
-    "duration": "00:11"
+    "url": "https://tv.wafflzz.xyz/streams/twitch_clip_5.mp4",
+    "thumbnail": "https://tv.wafflzz.xyz/streams/thumbnails/placeholder.png",
+    "duration": "00:11",
+    "minVersion": "1.1.0"
   },
-  
   {
     "id": "vid006",
-    "title": "there has to be a way",
+    "title": "There has to be a way",
     "description": "Clipped by Robbenbomber<br>",
-    "url": "https://cdn.wafflzz.xyz/tv.wafflzz.xyz/streams/twitch_clip_6.mp4",
-    "thumbnail": "https://placehold.co/1920x1080?text=No+Thumbnail",
-    "duration": "00:05"
+    "url": "https://tv.wafflzz.xyz/streams/twitch_clip_6.mp4",
+    "thumbnail": "https://tv.wafflzz.xyz/streams/thumbnails/placeholder.png",
+    "duration": "00:05",
+    "minVersion": "1.1.0"
   },
-  
   {
     "id": "vid007",
     "title": "🤨🏳️‍🌈",
     "description": "Clipped by Robbenbomber<br>",
-    "url": "https://cdn.wafflzz.xyz/tv.wafflzz.xyz/streams/twitch_clip_7.mp4",
-    "thumbnail": "https://placehold.co/1920x1080?text=No+Thumbnail",
-    "duration": "00:05"
+    "url": "https://tv.wafflzz.xyz/streams/twitch_clip_7.mp4",
+    "thumbnail": "https://tv.wafflzz.xyz/streams/thumbnails/placeholder.png",
+    "duration": "00:05",
+    "minVersion": "1.1.0"
   },
-  
   {
     "id": "vid008",
-    "title": "(boom) red china",
+    "title": "(Boom) Red China",
     "description": "Clipped by dandelol<br>",
-    "url": "https://cdn.wafflzz.xyz/tv.wafflzz.xyz/streams/twitch_clip_8.mp4",
-    "thumbnail": "https://placehold.co/1920x1080?text=No+Thumbnail",
-    "duration": "00:14"
+    "url": "https://tv.wafflzz.xyz/streams/twitch_clip_8.mp4",
+    "thumbnail": "https://tv.fflzz.xyz/streams/thumbnails/placeholder.png",
+    "duration": "00:14",
+    "minVersion": "1.1.0"
   },
-  
   {
     "id": "vid009",
     "title": "OBLITERATED",
     "description": "Clipped by dandelol<br>",
-    "url": "https://cdn.wafflzz.xyz/tv.wafflzz.xyz/streams/twitch_clip_9.mp4",
-    "thumbnail": "https://placehold.co/1920x1080?text=No+Thumbnail",
-    "duration": "00:17"
+    "url": "https://tv.wafflzz.xyz/streams/twitch_clip_9.mp4",
+    "thumbnail": "https://tv.wafflzz.xyz/streams/thumbnails/placeholder.png",
+    "duration": "00:17",
+    "minVersion": "1.1.0"
   },
-  
   {
     "id": "vid010",
-    "title": "[EN Vtuber] Boblox",
+    "title": "[EN VTuber] Boblox",
     "description": "Clipped by waffl_zz<br>",
-    "url": "https://cdn.wafflzz.xyz/tv.wafflzz.xyz/streams/twitch_clip_10.mp4",
-    "thumbnail": "https://placehold.co/1920x1080?text=No+Thumbnail",
-    "duration": "00:30"
+    "url": "https://tv.wafflzz.xyz/streams/twitch_clip_10.mp4",
+    "thumbnail": "https://tv.wafflzz.xyz/streams/thumbnails/placeholder.png",
+    "duration": "00:30",
+    "minVersion": "1.1.0"
   },
-  
   {
     "id": "vid011",
-    "title": "if what what what if",
+    "title": "If what what what if",
     "description": "Clipped by Robbenbomber<br>",
-    "url": "https://cdn.wafflzz.xyz/tv.wafflzz.xyz/streams/twitch_clip_11.mp4",
-    "thumbnail": "https://placehold.co/1920x1080?text=No+Thumbnail",
-    "duration": "00:13"
+    "url": "https://tv.wafflzz.xyz/streams/twitch_clip_11.mp4",
+    "thumbnail": "https://tv.wafflzz.xyz/streams/thumbnails/placeholder.png",
+    "duration": "00:13",
+    "minVersion": "1.1.0"
   }
 ]
